@@ -1,9 +1,10 @@
 const words = ["Hoyeon.", "A Student.", "A Hard Learner.", "A Enthusiast."]
+//These words are going to show up
 
 let cursor = gsap.to('.cursor', {opacity: 0, ease:
 "power2.inOut", repeat: -1}) //cursor blinks(goes to opacity 0) infinitely.
 
-let boxTL = gsap.timeline()
+let boxTL = gsap.timeline() //timeline function makes thing simpler to control
 
 boxTL.to('.box', {duration: 1, width:"25vw",
 delay: 0.5, ease: "power4.easeIn"}) //box goes to 25 vw for 1 second
