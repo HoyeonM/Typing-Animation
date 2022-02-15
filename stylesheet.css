@@ -25,7 +25,7 @@ h1{
 
 h1 .box{
     position: absolute;
-    bottom: 0;
+    bottom: 0; /*needs to be bottom of the text*/
     display: inline-block;
     background-color:darkseagreen;
     height: 1vw;
