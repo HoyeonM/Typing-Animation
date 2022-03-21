@@ -6,4 +6,4 @@ I learned how gsap.to(), gsap.from() and timeline() works.
 
 ![](typeanimation.gif)
 
-##### sourch from: <https://youtu.be/ZT66N5hBiCE>
+##### learned from: <https://youtu.be/ZT66N5hBiCE>
